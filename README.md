@@ -1,4 +1,5 @@
 🌍 Guia Turístico da Paraíba
+
 Este projeto trata-se de um guia turístico interativo do estado da Paraíba, desenvolvido para fornecer informações sobre pontos turísticos da região.
 
 🛠 Tecnologias Utilizadas
