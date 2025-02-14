@@ -1,0 +1,41 @@
+{
+  "locais": [
+    {
+      "id": "8073de64-f29c-4657-9fbe-cfdcb1797211",
+      "titulo": "Praia de Tambaba",
+      "descricao": "Tambaba é uma praia brasileira situada no município de Conde, litoral sul da Paraíba que fica a cerca de 30 km da capital João Pessoa e é conhecida principalmente pela área naturista, sendo a primeira praia do Brasil a permitir o naturismo por lei municipal.",
+      "foto": "https://i.ibb.co/YXVFSsx/tambaba.webp"
+    },
+    {
+      "id": "b148ab8b-c8c9-484d-a556-797945d9bf9a",
+      "titulo": "Praia de Coqueirinho",
+      "descricao": "Praia de Coqueirinho é um dos destinos mais paradisíacos do mundo e considerado uma das dez praias mais lindas do Brasil. É localizada no litoral do município do Conde, 35 km da capital João Pessoa, no estado da Paraíba.",
+      "foto": "https://i.ibb.co/hYxXQw3/7784101160-aca72486c3-b.jpg"
+    },
+    {
+      "id": "9f90e740-1464-43ca-989b-5a9c202eac06",
+      "titulo": "Piscinas Naturais do Seixas",
+      "descricao": "As Piscinas Naturais do Seixas são um dos mais emblemáticos cartões-postais de João Pessoa. Localizadas em frente à Praia do Seixas, a atração é uma das mais procuradas por quem quer mergulhar em águas rasas e cristalinas e admirar os peixinhos coloridos que vivem nos arrecifes.",
+      "foto": "https://i.ibb.co/BT5xgYV/24.jpg"
+    },
+    {
+      "id": "a3c914c9-2fbd-4bfb-9dd9-d6793b9889bb",
+      "titulo": "Vale dos Dinossauros",
+      "descricao": "Localizado em Sousa, no sertão da Paraíba, o Vale dos Dinossauros abriga pegadas fossilizadas que datam de aproximadamente 110 milhões de anos, sendo um dos mais importantes sítios paleontológicos do Brasil.",
+      "foto": "https://upload.wikimedia.org/wikipedia/commons/0/06/Vale_dos_Dinossauros%2C_Sousa%2C_Para%C3%ADba.jpg"
+    },
+    {
+      "id": "f8df6b91-ec9b-4b6d-94b7-94a5999392a7",
+      "titulo": "Forte de Santa Catarina",
+      "descricao": "Situado em Cabedelo, o Forte de Santa Catarina é uma das construções coloniais mais importantes da Paraíba, sendo um marco da resistência contra invasões holandesas no século XVII.",
+      "foto": "https://cdn.jornaldaparaiba.com.br/wp-content/uploads/2022/01/Fortaleza-de-Santa-Catarina2__DIVULGACAO.jpg?xid=599275"
+    },
+    {
+      "id": "5b8c8f2d-4c13-4f82-9356-924b3dfdab1d",
+      "titulo": "Ilha da Areia Vermelha",
+      "descricao": "Localizada em Cabedelo, a Ilha da Areia Vermelha é uma formação de bancos de areia que emerge durante a maré baixa, criando um cenário paradisíaco em meio ao mar azul-turquesa.",
+      "foto": "https://portalcabedelo.com.br/wp-content/uploads/2021/09/turismo-ilha-areia-vermelha-portal-cabedelo.jpg"
+    }
+  ]
+}
+
