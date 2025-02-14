@@ -2,7 +2,7 @@
 
 Este projeto trata-se de um guia turístico interativo do estado da Paraíba, desenvolvido para fornecer informações sobre pontos turísticos da região.
 
-🛠 Tecnologias Utilizadas
+🛠 Tecnologias Utilizadas:
 
 HTML → Estruturação do conteúdo.
 
@@ -16,7 +16,7 @@ JSON → Armazenamento e gerenciamento de dados dinâmicos.
 
 
 
-📌 Funcionalidades
+📌 Funcionalidades:
 
 ✅ Exibição de informações sobre destinos turísticos na Paraíba.
 
