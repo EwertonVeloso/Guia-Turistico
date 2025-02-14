@@ -15,7 +15,8 @@ JSON → Armazenamento e gerenciamento de dados dinâmicos.
 ✅ Interface responsiva e intuitiva, que permite a interação com o usuário.
 ✅ Consumo de dados via JSON para carregamento dinâmico de informações.
 
-🚀 Como Executar
+🚀 Como Executar:
+
 Clone este repositório:
 ````
 git clone https://github.com/EwertonVeloso/Guia-Turistico.git
@@ -26,7 +27,7 @@ Acesse a pasta do projeto:
 ````
 cd Guia-Turistico
 ````
-Abra o arquivo index.html em um navegador.
+  Abra o arquivo index.html em um navegador.
 
 Para inicializar o servidor:
 ````
