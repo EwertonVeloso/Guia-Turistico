@@ -25,8 +25,8 @@ Acesse a pasta do projeto:
 
 ````
 cd Guia-Turistico
-Abra o arquivo index.html em um navegador.
 ````
+Abra o arquivo index.html em um navegador.
 
 Para inicializar o servidor:
 ````
